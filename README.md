@@ -9,4 +9,4 @@ A project to clone the design of the Media Tec website using HTML and CSS.
 
 ## View Live
 
-Visit the live version of the Rockstar Games Website Clone: [View Live](https://swathinktk.github.io/mediatek_clone/)
+Visit the live version of the Media Tec Website Clone: [View Live](https://swathinktk.github.io/mediatek_clone/)
